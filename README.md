@@ -61,6 +61,9 @@
   <a href="https://naukri.com/code360/profile/1ecaf042-64ae-4e34-b029-e834c6c1a16f" target="_blank">
     <img src="https://img.shields.io/badge/Code360-303030?style=for-the-badge&logo=codingninjas&logoColor=orange" target="_blank" />
   </a>
+  <a href="https://www.codechef.com/users/explorer_7" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-3E2626?style=for-the-badge&logo=codechef&logoColor=white" target="_blank" />
+  </a>
 </div>
 <br/>
 
