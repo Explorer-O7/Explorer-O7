@@ -82,7 +82,7 @@
 
 <!-- My Contibution Chart With Snake Animation -->
 <div align="center">
-  <h2>🐍 My Contributions🐍</h2>
+  <h2>🐍 My Contributions 🐍</h2>
   <img alt="Contribution Chart Snake Animation" src="https://raw.githubusercontent.com/explorer-o7/explorer-o7/output/github-contribution-grid-snake.svg" />
 </div>
 <br/><br/>
